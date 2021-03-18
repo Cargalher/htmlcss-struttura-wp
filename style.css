@@ -11,3 +11,12 @@
     display: table;
     clear: both;
 }
+header{
+    background-color: palevioletred;
+    height: 150px;
+}
+/*Main*/
+.main_content{
+    background-color: paleturquoise;
+    height: 600px;
+}
